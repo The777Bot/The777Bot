@@ -22,23 +22,35 @@
 
 ### 🧠 My Skills
 
-#### 💻 Languages & Tech
-`Dart` `JavaScript` `HTML/CSS` `C#` `Python` `Cpp` `Assembly`
+### 💻 Languages and Tools:
 
-#### ⚙️ Frameworks & Libraries
-`Flutter` / `Flame` / `React.js` / `Next.js`  
-`Firebase` / `Framer Motion` / `Three.js`  
-`.NET Core` / `Unity` / `AR Foundation`  
-`Node.js` / `Express` / `REST APIs`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/flame-engine/flame/main/doc/images/logo.png" height="30" />
+  <img src="https://raw.githubusercontent.com/framer/motion/main/.github/assets/motion/fm-gradient-icon.svg" height="30" />
+  <img src="https://avatars.githubusercontent.com/u/110732135?s=200&v=4" height="30" alt="Cursor AI" />
+</p>
 
-#### 🎨 Creative & Design Tools
-`Figma` / `Canva` / `Photoshop`  
-`Custom CSS Animations` / `Canvas Drawing` / `SVG`
+
 
 #### 📦 Other Tools & Platforms
 `Git` / `GitHub` / `VS Code` / `Postman`  
 `Notion` / `Vercel` / `Netlify` / `Android Studio`  
-`CMake` / `NuGet` / `Windows Build Tools`
+`CMake` / `NuGet` / `Windows Build Tools`/ `Cursor`
 
 ---
 
@@ -56,6 +68,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=The777Bot&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=The777Bot&theme=dark&hide_border=true&background=0D1117&dates=FFFFFF&stroke=FFFFFF" />
 </p>
 
 ---
