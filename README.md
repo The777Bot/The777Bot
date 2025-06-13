@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
-  <img src="https://avatars.githubusercontent.com/u/110732135?s=200&v=4" height="30" alt="Cursor AI" />
+  <img src="https://www.cursor.com/assets/images/logo.svg" height="30" alt="Cursor AI" />
 </p>
 
 
