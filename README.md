@@ -22,7 +22,7 @@
 
 ### 🧠 My Skills
 
-### 💻 Languages and Tools:
+#### 💻 Languages and Tools:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
@@ -40,8 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
-  <img src="https://raw.githubusercontent.com/flame-engine/flame/main/doc/images/logo.png" height="30" />
-  <img src="https://raw.githubusercontent.com/framer/motion/main/.github/assets/motion/fm-gradient-icon.svg" height="30" />
   <img src="https://avatars.githubusercontent.com/u/110732135?s=200&v=4" height="30" alt="Cursor AI" />
 </p>
 
