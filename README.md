@@ -8,17 +8,7 @@
 
 ---
 
-### 🚧 Project I'm Building
 
-- 🎮 [**Super Stickmen**](https://github.com/The777Bot/Super_Stickmen)  
-  A high-energy 2D stickman fighting game made with Flutter + Flame. Fast, stylized, and loaded with character animation and combat.
-
-### 🚧 Project I'm planning
-
-- 🌍 [**VeilVerse**](https://github.com/The777Bot/VeilVerse)  
-  An AR-powered camera + map app where users leave invisible digital marks (images, text, memories) on real-world walls—visible only through your device.
-
----
 
 ### 🧠 My Skills
 
