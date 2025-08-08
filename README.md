@@ -71,7 +71,7 @@
 ### 📫 Connect With Me
 
 - 📧 [Email me](mailto:ubadahme@example.com)
-- 🌐 Portfolio: [Botfolio](https://botportfolio.netlify.app/)
+- 🌐 Portfolio: [My Portfolio](https://botportfolio.netlify.app/)
 - 💬 DMs open for collab, feedback, or wild ideas
 
 ---
